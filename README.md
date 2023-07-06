@@ -1,1 +1,1 @@
-My shell repository description
+This is a shell permision  readme
